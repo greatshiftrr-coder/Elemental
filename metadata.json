@@ -1,0 +1,6 @@
+{
+  "name": "Elemental - Interactive Periodic Table",
+  "description": "An interactive, minimalist periodic table of elements. Explore atomic structures, electron shells, thermodynamic states, and chemical properties with a detailed atomic inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
